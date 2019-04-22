@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">LoginRegisterDemo</string>
+
+    <string name="s_frag_register_nickname">用户昵称</string>
+    <string name="s_frag_register_phone_num">手机号码</string>
+    <string name="s_frag_register_password_check">确认密码</string>
+    <string name="s_frag_register_protocol">同意《HZF协议》</string>
+    <string name="s_frag_register_submit">完成注册</string>
+
+    <string name="s_frag_login_register_password">密码</string>
+
+    <string name="s_frag_login_login">登录</string>
+    <string name="s_frag_login_nickname_or_phone_num">昵称/手机号码</string>
+
+    <string name="s_activity_main_login">登录</string>
+    <string name="s_activity_main_login_success">登录成功</string>
+    <string name="s_activity_main_login_failure">登录失败</string>
+    <string name="s_activity_main_register">注册</string>
+    <string name="s_activity_main_register_input_nickname">注册失败，未输入用户昵称！</string>
+    <string name="s_activity_main_register_input_phone_num">注册失败，未输入手机号码！</string>
+    <string name="s_activity_main_register_input_password">注册失败，未输入密码！</string>
+    <string name="s_activity_main_register_input_confirm_password">注册失败，未输入确认密码！</string>
+    <string name="s_activity_main_register_input_password_wrong">注册失败，密码不一致！</string>
+    <string name="s_activity_main_register_input_protocol">注册失败，未同意协议！</string>
+    <string name="s_activity_main_register_success">注册成功</string>
+    <string name="s_activity_main_register_failure">注册失败</string>
+
+    <string name="s_url_login">http://服务器地址/LoginRegisterDemo/LoginServlet</string>
+    <string name="s_url_register">http://服务器地址/LoginRegisterDemo/RegisterServlet</string>
+</resources>
